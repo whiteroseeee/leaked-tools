@@ -10,7 +10,7 @@ termux:
 3. pkg install figlet
 4. pkg install python2 && pkg install python3
 5. git clone https://github.com/whiteroseeee/leaked-tools
-6. cd LEAKED
+6. cd leaked-tools
 7. python3 setup
 8. python3 leak.py
 example use : python3 leak.py -s gov.in -f pdf
@@ -21,7 +21,7 @@ linux:
 3. apt install figlet
 4. apt install python3
 5. git clone https://github.com/whiteroseeee/leaked-tools
-6. cd LEAKED
+6. cd leaked-tools
 7. python3 setup
 8. python3 leak.py
 example use : python3 leak.py -s gov.in -f xlsx
